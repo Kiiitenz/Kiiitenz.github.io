@@ -1,5 +1,5 @@
 let pw;
-let img1;
+let img2;
 var pl;
 var zoom =1;
 var play = false;
@@ -7,7 +7,7 @@ var x = 160;
 var y = 130;
 
 function preload() {
-  img2 = loadImage("img2.png");
+  img2 = loadImage("Img2.png");
 }
 
 function setup() {
